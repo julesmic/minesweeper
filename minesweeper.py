@@ -5,7 +5,7 @@ class boardSpot(object):
     value = 0
     selected = False
     mine = False
-
+#do this
     def __init__(self):
         self.selected = False
 
