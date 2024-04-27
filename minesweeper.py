@@ -217,4 +217,5 @@ def playGame():
     else:
         print("You hit a mine, Game Over!")
 
-playGame()
+if __name__ == "main":
+    playGame()
